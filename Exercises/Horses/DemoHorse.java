@@ -1,3 +1,5 @@
+package Horses;
+
 /**
  * Created by jc247746 on 12/09/16.
  */

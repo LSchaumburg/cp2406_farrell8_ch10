@@ -1,3 +1,5 @@
+package Horses;
+
 /**
  * Created by jc247746 on 12/09/16.
  */
@@ -13,9 +15,9 @@ public class Horse {
 
     }
     public void display(){
-        System.out.println("Horse's name = " + name);
-        System.out.println("Horse's color = " + color);
-        System.out.println("Horse was born in = " + birthyear);
+        System.out.println("Horses.Horse's name = " + name);
+        System.out.println("Horses.Horse's color = " + color);
+        System.out.println("Horses.Horse was born in = " + birthyear);
     }
 
     public String getName() {
